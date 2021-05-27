@@ -26,7 +26,7 @@ int main()
    printf("\n the elements in the array: ");
 
    //Print the array elements in using printf statement
-   for(i=0;i,i<n;i++)
+   for(i=0;i<n;i++)
    {
      printf(" %d", a[i] );
    }
